@@ -1,0 +1,15 @@
+{
+  "name": "component-patch",
+  "version": "0.0.1",
+  "description": "Creates patches from diffs, and applies them.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/component/patch.git"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/component/patch/issues"
+  },
+  "homepage": "https://github.com/component/patch"
+}
