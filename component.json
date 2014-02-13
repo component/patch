@@ -1,7 +1,7 @@
 {
   "name": "patch",
   "repo": "component/patch",
-  "description": "applies patches created by component/diff",
+  "description": "Creates patches from diffs, and applies them.",
   "version": "0.0.1",
   "keywords": ["patch", "fuzzy", "diff", "merge"],
   "dependencies": {
